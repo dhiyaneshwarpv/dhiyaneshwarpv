@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a CSE (IoT & Automation) undergraduate at SASTRA University. I'm currently beginning my learning curve so I'm always open to new ideas and exposure. I'm interested in learning web development, and I'm looking forward to collaborating with people on beginner-friendly projects. 
+I'm a CSE (IoT & Automation) undergraduate. I'm currently beginning my learning curve so I'm always open to new ideas and exposure. I'm interested in learning web development, and I'm looking forward to collaborating with people on beginner-friendly projects. 
 
 
 ## 🌐 Socials:
