@@ -12,11 +12,7 @@ I'm a CSE (IoT & Automation) undergraduate. I'm currently beginning my learning 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dhiyaneshwarpv&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhiyaneshwarpv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dhiyaneshwarpv&icon=2&color=0)](https://visitcount.itsvg.in)
